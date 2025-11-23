@@ -56,7 +56,7 @@ services:
       - youtube-downloader-network
 
   youtube-bot:
-    build: .
+    image: git.astralelite.org/ae/ytbot:latest
     container_name: youtube-downloader-bot
     restart: unless-stopped
     volumes:
