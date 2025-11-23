@@ -62,7 +62,7 @@ docker-compose up -d
 
 That's it! ✅
 
-# analytics
+# Analytics
 
 ## PowerShell - Windows
 
