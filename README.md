@@ -1,6 +1,4 @@
-Source Code - https://git.astralelite.org/AE/ytbot
-
-# YouTube Downloader Telegram Bot
+# YouTube Downloader Telegram Bot -   https://git.astralelite.org/AE/ytbot
 
 Just paste a YouTube link to download high quality videos and audio!
 
