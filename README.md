@@ -21,7 +21,7 @@ Just paste a YouTube link to download high quality videos and audio!
 ```bash
 mkdir ytbot
 cd ytbot
-wget https://git.astralelite.org/AE/ytbot/raw/branch/main/docker-compose.yml -OutFile docker-compose.yml
+wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/docker-compose.yml -OutFile docker-compose.yml
 ```
 
 ### Linux / unix 
@@ -29,7 +29,7 @@ wget https://git.astralelite.org/AE/ytbot/raw/branch/main/docker-compose.yml -Ou
 ```bash
 mkdir ytbot
 cd ytbot
-wget https://git.astralelite.org/AE/ytbot/raw/branch/main/docker-compose.yml 
+wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/docker-compose.yml
 ```
 
 ### 1. Get Telegram Credentials
