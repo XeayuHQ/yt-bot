@@ -75,14 +75,17 @@ That's it! ✅
 ```bash
 mkdir analytics-ytbot
 cd analytics-ytbot
-wget https://git.astralelite.org/AE/ytbot/raw/branch/main/analytics/docker-compose.yml -OutFile docker-compose.yml
+wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/analytics/docker-compose.yml -OutFile docker-compose.yml
+docker compose up -d
 ```
 ## Linux / Unix 
 
 ```bash
 mkdir analytics-ytbot
 cd analytics-ytbot
-wget https://git.astralelite.org/AE/ytbot/raw/branch/main/analytics/docker-compose.yml
+wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/analytics/docker-compose.yml
+docker compose up -d
+
 ```
 ## Usage
 
