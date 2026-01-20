@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://astralelite.org" target="_blank">
-    <img src="https://img.shields.io/badge/Powered%20by-AstralElite.org-6C63FF?style=for-the-badge&logo=astro&logoColor=white" alt="Powered by AstralElite.org">
-  </a>
-</p>
-
 # YouTube Downloader Telegram Bot
+
+<p align="center">
+  <a href="https://code.xeayu.com/Xeayu/Terms-of-Service/src/branch/main/yt-bot.md">Terms of Service</a> •
+  <a href="https://code.xeayu.com/Xeayu/Privacy-Policy/src/branch/main/yt-bot.md">Privacy Policy</a>
+</p>
 
 Just paste a YouTube link to download high quality videos and audio!
 
@@ -27,7 +26,7 @@ Just paste a YouTube link to download high quality videos and audio!
 ```bash
 mkdir ytbot
 cd ytbot
-wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/docker-compose.yml -OutFile docker-compose.yml
+wget https://code.xeayu.com/Xeayu/yt-bot/raw/branch/main/docker-compose.yml -OutFile docker-compose.yml
 ```
 
 ### Linux / unix 
@@ -35,7 +34,7 @@ wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/docker-c
 ```bash
 mkdir ytbot
 cd ytbot
-wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/docker-compose.yml
+wget https://code.xeayu.com/Xeayu/yt-bot/raw/branch/main/docker-compose.yml 
 ```
 
 ### 1. Get Telegram Credentials
@@ -75,17 +74,14 @@ That's it! ✅
 ```bash
 mkdir analytics-ytbot
 cd analytics-ytbot
-wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/analytics/docker-compose.yml -OutFile docker-compose.yml
-docker compose up -d
+wget https://code.xeayu.com/Xeayu/yt-bot/raw/branch/main/analytics/docker-compose.yml -OutFile docker-compose.yml
 ```
 ## Linux / Unix 
 
 ```bash
 mkdir analytics-ytbot
 cd analytics-ytbot
-wget https://raw.githubusercontent.com/AE-OSS/yt-downloader-tg-bot/main/analytics/docker-compose.yml
-docker compose up -d
-
+wget https://code.xeayu.com/Xeayu/yt-bot/raw/branch/main/analytics/docker-compose.yml
 ```
 ## Usage
 
